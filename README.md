@@ -31,7 +31,7 @@ I am currently seeking opportunities where I can apply my skills in software dev
 ---
 
 ## 🌟 Key Projects:
-- **[Expense Tracker](link-to-your-project-repo)**: A Django-based web app for managing and tracking personal expenses, with features like budget management, categories, and expense reporting.
+- **[Expense Tracker](https://github.com/nikita123Chauhan/Expense_Tracker.git)**: A Django-based web app for managing and tracking personal expenses, with features like budget management, categories, and expense reporting.
 - **[Student ERP Dashboard](link-to-your-project-repo)**: A comprehensive student management dashboard for tracking attendance, updating profiles, and accessing academic calendars, developed with a responsive UI and backend integration.
 - **[Sudoku Game](link-to-your-project-repo)**: A JavaFX-based interactive Sudoku game with three difficulty levels. This project applies data structures and algorithms for the game logic and solving mechanisms.
 - **[WhatsApp Sentiment Analysis](link-to-your-project-repo)**: A machine learning project that analyzes WhatsApp chat data to detect sentiment and emotions based on message content.
