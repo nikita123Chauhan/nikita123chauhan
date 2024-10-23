@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 🎓 **Final Year B.Tech Student** in Computer Science and Engineering at Roorkee College of Engineering (2021-2025)  
 💻 **Aspiring Full Stack Developer** actively looking for opportunities  
-🏆 **Academic Excellence Award** for Programming in Java NPTEL Certificate from IIT Kharagpur  
+🏆 **Academic Excellence Award** for Programming in Java NPTEL Certificate (IIT Kharagpur)  
 📚 **Passionate about building real-world applications** and improving my skills through personal projects and internships
 
 ---
